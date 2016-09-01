@@ -15,3 +15,5 @@ Cureently support Features
 ## Credits
 
 Developed by Bird
+
+Modified: Sep 1, 2016.
