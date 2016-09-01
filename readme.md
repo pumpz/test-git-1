@@ -16,4 +16,8 @@ Cureently support Features
 
 Developed by Bird
 
+<<<<<<< HEAD
 Dup Modified : 2016-09-01 
+=======
+Modified: Sep 1, 2016.
+>>>>>>> test
