@@ -11,3 +11,7 @@ Cureently support Features
 * Add a new CarFuel
 * Add a fill up
 * Display car's average Km/L. 
+
+## Credits
+
+Developed by Bird
